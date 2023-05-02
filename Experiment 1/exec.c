@@ -12,7 +12,9 @@ int main(){
     printf("exec failed\n");
 	return 0;
 }
-/*//TASK.OUT
+
+// task.out:
+/*
 #include<stdio.h>
 
 int main(){
