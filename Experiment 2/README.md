@@ -1,3 +1,4 @@
 # Experiment 2
 
-#### 2. Write shell scripts for factorial,sum and printing of numbers.
+#### 2. Unix commands (files directory, data manipulation, network communication, shell
+programming and vi editor).
