@@ -55,10 +55,10 @@ void main()
 
 	for(i = 0; i < n; i++)
 	{
-		p[i].pid = i + 1;
-		printf("Enter the arrival time of process %d: ", i + 1);
+		p[i].pid = i ;
+		printf("Enter the arrival time of process %d: ", i );
 		scanf("%d",&p[i].at);
-		printf("Enter the burst time of process %d: ", i + 1);
+		printf("Enter the burst time of process %d: ", i );
 		scanf("%d",&p[i].bt);
 	}
 	
